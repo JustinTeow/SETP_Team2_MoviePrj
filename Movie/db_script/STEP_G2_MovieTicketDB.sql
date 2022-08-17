@@ -11,6 +11,7 @@ DROP DATABASE IF EXISTS STEP_G2_MovieTicketDB;
 CREATE DATABASE STEP_G2_MovieTicketDB;
 
 -- --------------------------------------------------------
+--ssss--
 
 USE STEP_G2_MovieTicketDB;
 
